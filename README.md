@@ -25,9 +25,8 @@ With the advancement of deep learning techniques, building image classifiers has
 
 ## Demo
 
-![Demo](demo.gif)
+[streamlit-app-2024-02-15-13-02-42.webm](https://github.com/figo2001/Bird-Species-Classification/assets/78696850/4488a912-23a0-4a9d-8854-35496306e473)
 
-Here's a quick demo of the web application in action. Try it out yourself to see how accurate the predictions are!
 
 ## Installation
 
